@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a0414166-eb22-401a-8736-61505aa7605a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.~lock.bioinformaticsList2.odt#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bioinformaticsList2.odt" beforeDir="false" afterPath="$PROJECT_DIR$/bioinformaticsList2.odt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +117,7 @@
       <workItem from="1585512149802" duration="728000" />
       <workItem from="1585680888764" duration="15221000" />
       <workItem from="1585901651854" duration="30869000" />
-      <workItem from="1585985834703" duration="29692000" />
+      <workItem from="1585985834703" duration="31471000" />
     </task>
     <servers />
   </component>
