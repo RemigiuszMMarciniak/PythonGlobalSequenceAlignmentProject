@@ -1,0 +1,13 @@
+# 1: atatatatt
+# 2: acgtgata
+# Mode: distance
+# Match: -
+# Mismatch: 1
+# Gap: 1
+# Score: 5
+# Length: 9
+# Identity: 4/9 (44.44444444444444%)
+# Gaps: 1/9 (11.11111111111111%)
+atatatatt
+|xx|xx||x
+acgt-gata

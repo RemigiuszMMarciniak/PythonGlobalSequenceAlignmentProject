@@ -1,0 +1,13 @@
+# 1: atatatatt
+# 2: acgtgata
+# Mode: similarity
+# Match: 1
+# Mismatch: 0
+# Gap: -1
+# Score: 6
+# Length: 9
+# Identity: 3/9 (33.33333333333333%)
+# Gaps: 1/9 (11.11111111111111%)
+atatatatt
+|xx|xxx|x
+acgtga-ta

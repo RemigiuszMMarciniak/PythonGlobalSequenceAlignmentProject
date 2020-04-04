@@ -1,0 +1,13 @@
+# 1: GCAGTC
+# 2: CTAGG
+# Mode: distance
+# Match: -
+# Mismatch: 1
+# Gap: 1
+# Score: 4
+# Length: 6
+# Identity: 2/6 (33.33333333333333%)
+# Gaps: 1/6 (16.666666666666664%)
+GCAGTC
+xx||xx
+CTAG-G
